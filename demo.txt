@@ -6,3 +6,4 @@ hello all
 welcome to branch
 
 welcome to git
+bug fix bug2
