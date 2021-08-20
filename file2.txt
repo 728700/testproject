@@ -1,6 +1,11 @@
 keep smile always
 
+<<<<<<< HEAD
 
 test anything myself
 
 as well as you can change
+=======
+hello all 
+head 
+>>>>>>> 6d49b4755fa1efa02f779e77c2b94163f2340044
